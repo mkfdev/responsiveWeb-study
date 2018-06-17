@@ -1,0 +1,5 @@
+
+.main-bg {color:#fff; background-image: url('img/main-bg.jpg'); background-size:cover; background-position:center;}
+.content_tit {display:block; margin-top:10px}
+.form-list input {margin-bottom:10px}
+.contact-area {width:100%; max-width:none; color:#fff; background: #000 url('img/map-img.png'); background-size:contain;}
